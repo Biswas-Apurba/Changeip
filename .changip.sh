@@ -1,6 +1,6 @@
 #!/bin/bash
-# Encrypted by (M.A.S)
-# Github- https://github.com/mazbha1019
+# Encrypted by (ApurbA)
+# Github- https://github.com/apumsw1
 # Note: Please Don't Edite this tool without my permission.
 
 z="
